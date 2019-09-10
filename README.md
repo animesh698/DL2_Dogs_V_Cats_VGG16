@@ -3,7 +3,7 @@ A Deep Learning model to classify cats and dogs
 
 Data set https://www.kaggle.com/biaiscience/dogs-vs-cats
 ## RUN:
-Change the paths in the keras_2.py python file and run it.
+Change the paths in the keras_2.py python file and run it in your tensorflow environment.
 
 ## OUTPUT:
 
